@@ -3,6 +3,7 @@ Ein wunderbares Projekt zur Repräsentation unserer Webtechnologie-Kenntnisse
 
 ## Ideen
 - Haus am See Tool
+- Spotify Hörbuch/Hörspiel Webplayer
 
 ## Skills
 - Benny
